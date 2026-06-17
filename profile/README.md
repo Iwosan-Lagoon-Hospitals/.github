@@ -141,8 +141,6 @@ master
 
 # 🔒 Branch Protection Rules
 
-The following protections should be enabled:
-
 ### master
 
 * Require Pull Requests before merging
