@@ -191,28 +191,6 @@ hotfix/*
    └──► develop
 ```
 
----
-
-# 📖 README Display Structure
-
-When visitors open this repository, GitHub will automatically display this README on the repository homepage in the following order:
-
-1. Repository Title
-2. Repository Purpose
-3. Branching Strategy Table
-4. Branch Workflow Details
-5. Pull Request Process
-6. Branch Protection Rules
-7. Deployment Flow Diagram
-8. Additional Contribution Guidelines (future)
-9. Contact Information (future)
-
-This ensures developers immediately understand:
-
-* The purpose of the repository
-* Which branches to use
-* How code moves between environments
-* Deployment and approval processes
 
 ---
 
