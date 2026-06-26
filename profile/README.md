@@ -1,4 +1,4 @@
-# Lagoon Hospitals Development Repository
+# Iwosan Healthcare Systems Development Repository
 
 Welcome to the official development repository for **Lagoon Hospitals**.
 
